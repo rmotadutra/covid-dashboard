@@ -1,24 +1,13 @@
-# corona-chart
+# covid-dashboard
 
-## Project setup
-```
-npm install
-```
+A dashboard to view Covid data for each country.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Data types
 
-### Compiles and minifies for production
-```
-npm run build
-```
+`Cases`: A timeline that shows the total number of confirmed per day.
+`Deaths`: A timeline that shows the total number of deaths per day.
+`New Deaths`: A timeline that shows the number of new deaths per day.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Data API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+All covid-19 information are obtained from the [corona-API](https://about-corona.net/documentation)
