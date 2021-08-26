@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<h1>Covid Dashboard</h1>
-		<a href="https://github.com/rmotadutra" target="_blank">
+		<a href="https://github.com/rmotadutra/covid-dashboard" target="_blank">
 			<svg
 				height="32"
 				viewBox="0 0 16 16"
